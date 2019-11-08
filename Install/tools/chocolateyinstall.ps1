@@ -1,6 +1,6 @@
 ﻿$packageName = 'KKBOX'
 $fileType = 'exe'
-$url = 'https://download.kkbox.com/files/KKBOX_Setup-7.1.72.exe'
+$url = 'https://download.kkbox.com/files/KKBOX_Setup-7.1.60.exe'
 
 $silentArgs = '/s'
 $validExitCodes = @(0)
