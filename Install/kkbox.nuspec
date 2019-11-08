@@ -8,7 +8,7 @@
 	<packageSourceUrl>https://github.com/poumason/chocolatey_kKbox</packageSourceUrl>
 	<owners>KKBOX International Limited</owners>
     <projectUrl>https://github.com/poumason/chocolatey_kKbox</projectUrl>
-    <iconUrl>https://github.com/poumason/chocolatey_kKbox/raw/master/app-icon.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/poumason/chocolatey_kKbox/master/app-icon.png</iconUrl>
     <copyright>Copyright © 2019 KKBOX International Limited All Rights Reserved</copyright>
 	<licenseUrl>https://raw.githubusercontent.com/poumason/chocolatey_kKbox/master/LICENSE</licenseUrl>
     <tags>KKBOX MUSIC</tags>
