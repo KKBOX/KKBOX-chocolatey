@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>KKBOX</id>
+    <version>7.1.60</version>
+    <title>KKBOX Music</title>
+    <authors>KKBOX International Limited</authors>
+	<packageSourceUrl>https://github.com/poumason/chocolatey_kKbox</packageSourceUrl>
+	<owners>KKBOX International Limited</owners>
+    <projectUrl>https://github.com/poumason/chocolatey_kKbox</projectUrl>
+    <iconUrl>https://github.com/poumason/chocolatey_kKbox/raw/master/app-icon.png</iconUrl>
+    <copyright>Copyright © 2019 KKBOX International Limited All Rights Reserved</copyright>
+	<licenseUrl>https://raw.githubusercontent.com/poumason/chocolatey_kKbox/master/LICENSE</licenseUrl>
+    <tags>KKBOX MUSIC</tags>
+    <summary>Everything sounds right. Register KKBOX to enjoy free trial now!</summary>
+    <description>
+&#9678; Over 45 Million Tunes: Comprehensive music library with various genre and moods. Enjoy music offline and from multiple devices.
+&#9678; Personal Recommendation: The more you listen to music, the better we can recommend new tunes to amaze you. Celebrities and experts also hand-picked your vibes - just for you.
+&#9678; High-quality sound: 320kbps quality to indulge your ears with immersive music.
+&#9678; Exclusive KKBOX LIVE concerts: Live broadcast various concerts with best-quality audio and video effects - Just like you were there.
+&#9678; Unique &quot;Listen With&quot; community: Listen to music with favorite celebrities, artists or friends while chatting with them at the same time.
+&#9678; Premium Exclusive: Unlimited special offers and discounts only for premium members.
+
+Follow us on Facebook: https://www.facebook.com/KKBOX
+More discounts or special offer: https://www.kkbox.com/</description>
+	<releaseNotes>&#9678; Disabled auto-syncing of Offline Songs playlist to All Songs playlist
+&#9678; Fixed known issues to provide you with the best music experience possible</releaseNotes>
+	<dependencies> 
+      <dependency id="netfx-4.6.2" version="4.6.2.20190930" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
