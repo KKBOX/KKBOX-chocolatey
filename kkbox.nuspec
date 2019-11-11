@@ -5,12 +5,12 @@
     <version>7.1.72</version>
     <title>KKBOX Music</title>
     <authors>KKBOX International Limited</authors>
-	<packageSourceUrl>https://github.com/poumason/chocolatey_kKbox</packageSourceUrl>
+	<packageSourceUrl>https://github.com/KKBOX/KKBOX-chocolatey</packageSourceUrl>
 	<owners>KKBOX International Limited</owners>
-    <projectUrl>https://github.com/poumason/chocolatey_kKbox</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/poumason/chocolatey_kKbox/master/app-icon.png</iconUrl>
+    <projectUrl>https://github.com/KKBOX/KKBOX-chocolatey</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/KKBOX/KKBOX-chocolatey/master/app-icon.png</iconUrl>
     <copyright>Copyright © 2019 KKBOX International Limited All Rights Reserved</copyright>
-	<licenseUrl>https://raw.githubusercontent.com/poumason/chocolatey_kKbox/master/LICENSE</licenseUrl>
+	<licenseUrl>https://github.com/KKBOX/KKBOX-chocolatey/master/LICENSE</licenseUrl>
     <tags>KKBOX MUSIC</tags>
     <summary>Everything sounds right. Register KKBOX to enjoy free trial now!</summary>
     <description>
