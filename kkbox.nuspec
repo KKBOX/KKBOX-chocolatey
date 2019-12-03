@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>KKBOX</id>
-    <version>7.1.72</version>
+    <version>7.1.78</version>
     <title>KKBOX Music</title>
     <authors>KKBOX International Limited</authors>
 	<packageSourceUrl>https://github.com/KKBOX/KKBOX-chocolatey</packageSourceUrl>
@@ -23,8 +23,7 @@
 
 Follow us on Facebook: https://www.facebook.com/KKBOX
 More discounts or special offer: https://www.kkbox.com/</description>
-	<releaseNotes>&#9678; Disabled auto-syncing of Offline Songs playlist to All Songs playlist
-&#9678; Fixed known issues to provide you with the best music experience possible</releaseNotes>
+	<releaseNotes>&#9678; Fixed known issues to provide you with the best music experience possible</releaseNotes>
 	<dependencies> 
       <dependency id="netfx-4.6.2" version="4.6.2.20190930" />
     </dependencies>
