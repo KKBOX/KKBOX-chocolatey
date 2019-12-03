@@ -6,4 +6,4 @@ $silentArgs = '/s'
 $validExitCodes = @(0)
 
 
-Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$url"  -validExitCodes  $validExitCodes  -checksum "EABC2E751A015FEF9C0346F140F5283E5AC0E1F809227874EC16350C4D38BE24" -checksumType "sha256"
+Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$url"  -validExitCodes  $validExitCodes  -checksum "BAA343680CF0DA08442FA418EE6B8BAB37FAEFD1A44E3550C35BB985ACD0FF33" -checksumType "sha256"
