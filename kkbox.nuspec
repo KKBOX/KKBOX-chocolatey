@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>KKBOX</id>
-    <version>7.1.78</version>
+    <version>7.2.30</version>
     <title>KKBOX Music</title>
     <authors>KKBOX International Limited</authors>
 	<packageSourceUrl>https://github.com/KKBOX/KKBOX-chocolatey</packageSourceUrl>
