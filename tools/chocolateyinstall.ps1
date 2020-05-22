@@ -1,9 +1,9 @@
 ﻿$packageName = 'KKBOX'
 $fileType = 'exe'
-$url = 'https://download.kkbox.com/files/KKBOX_Setup-7.1.80.exe'
+$url = 'https://download.kkbox.com/files/KKBOX_Setup-7.2.30.exe'
 
 $silentArgs = '/s'
 $validExitCodes = @(0)
 
 
-Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$url"  -validExitCodes  $validExitCodes  -checksum "8EBA4D118DBDCF024DC1EEE603BA6817CA8B2E3F65B61FC2BBF6589D7BC11DAD" -checksumType "sha256"
+Install-ChocolateyPackage "$packageName" "$fileType" "$silentArgs" "$url"  -validExitCodes  $validExitCodes  -checksum "b20194db339dc45f73726100f40a9225c7b9caa9212a80404682bb42c385c3fb" -checksumType "sha256"
