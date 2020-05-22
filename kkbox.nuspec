@@ -24,7 +24,7 @@
 Follow us on Facebook: https://www.facebook.com/KKBOX
 More discounts or special offer: https://www.kkbox.com/</description>
 	<releaseNotes>&#9678; Fixed known issues to provide you with the best music experience possible</releaseNotes>
-	<dependencies> 
+	<dependencies>
       <dependency id="netfx-4.6.2" version="4.6.2.20190930" />
     </dependencies>
   </metadata>
