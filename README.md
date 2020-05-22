@@ -26,7 +26,7 @@ choco intall kkbox
 
 Note
 -
-If the package doesn't support Windows 8 or earlier, this might be due to the installation of kb2919355 (which is a dependency of this package) if your system is not up-to-date. 
+If the package doesn't support Windows 8 or earlier, this might be due to the installation of kb2919355 (which is a dependency of this package) if your system is not up-to-date.
 
 This KB requires a reboot of the system before the adobereader package installs successfully.
 
