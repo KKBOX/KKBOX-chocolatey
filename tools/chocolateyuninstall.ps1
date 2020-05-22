@@ -19,7 +19,7 @@ if ($key.Count -eq 1) {
       $packageArgs['silentArgs'] = "$($_.PSChildName) $($packageArgs['silentArgs'])"
       $packageArgs['file'] = ''
     } else {
-	}
+    }
 
     Uninstall-ChocolateyPackage @packageArgs
   }
